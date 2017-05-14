@@ -10,6 +10,5 @@ try {
     echo 'Выброшено исключение: '.$e->getMessage()."\n";
 }
 /**
- * bracnh1
- * master
+ * test
  */
