@@ -10,5 +10,5 @@ try {
     echo 'Выброшено исключение: '.$e->getMessage()."\n";
 }
 /**
- * test
+ * test123
  */
